@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="environmentGroups">
+      <list>
+        <environmentGroupState>
+          <option name="id" value="study" />
+          <option name="name" value="Study" />
+        </environmentGroupState>
+      </list>
+    </option>
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="description" value="Study nodejs and mongodb" />
+          <option name="id" value="66b5b60c-27ca-429d-9baa-3202cd96ae49" />
+          <option name="name" value="ShopDEV" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="id" value="21c26c77-cff0-42bd-9336-747171b50487" />
+                <option name="method" value="GET" />
+                <option name="name" value="Ping" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="bfc6027c-cfc0-4851-83c5-0ad77ef15c09" />
+  </component>
+</project>
